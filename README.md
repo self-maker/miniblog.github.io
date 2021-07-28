@@ -1,1 +1,1 @@
-# miniblog.github.io
+# self-maker.github.io
